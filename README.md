@@ -2,7 +2,20 @@
 
 ### About Me
 
-I am passionate about Artificial Intelligence and currently working in the AI field. I am always looking to collaborate on exciting AI/ML start-up projects. 
+Artificial Intelligence Engineer at Eoxys IT Solution. Love to learn and explore new tech and opportunities.
+
+Some of my skills:
+
+LangChain
+Machine Learning
+Large Language Model Operations (LLMOps)
+Natural Language Processing (NLP)
+Deep Learning
+Python (Programming Language)
+Prompt Engineering
+And learning many more...
+
+I would love to connect and learn more from you!!
 
 ### Contact Me
 - Email: [ramkishannhr222@gmail.com](mailto:ramkishannhr222@gmail.com)
