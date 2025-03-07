@@ -6,13 +6,19 @@ Artificial Intelligence Engineer at Eoxys IT Solution. Love to learn and explore
 
 Some of my skills:
 
-LangChain,
 Machine Learning,
 Large Language Model Operations (LLMOps),
 Natural Language Processing (NLP),
 Deep Learning,
-Python (Programming Language),
+Huggingface,
+LangChain,
+Langgraph,
 Prompt Engineering,
+Python (Programming Language),
+C++,
+Java,
+Gitlab,
+AWS
 And learning many more...
 
 I would love to connect and learn more from you!!
