@@ -26,3 +26,11 @@ I would love to connect and learn more from you!!
 ### Contact Me
 - Email: [ramkishannhr222@gmail.com](mailto:ramkishannhr222@gmail.com)
 - LinkedIn: [Ramkishan Rohila](https://www.linkedin.com/in/ramkishanrohila/)
+🛠 Language and tools
+🎃 I Code in :
+python logo  cplusplus logo  c logo  java logo 
+🛠 Software & Tools :
+ docker logo  canva logo  github logo  git logo  googlecloud logo  kaggle logo  vscode logo
+
+🔥My Stats :
+stats graph languages graph activity-graph graph
