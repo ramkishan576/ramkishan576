@@ -15,7 +15,7 @@
 ## 🧠 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00FFD1&center=true&vCenter=true&width=700&height=60&lines=Passionate+AI+Engineer+with+8+years+of+experience;Specialized+in+Generative+AI,+LLMOps,+and+LangChain;Building+next-gen+intelligent+systems+and+voice+assistants;Always+learning+and+pushing+AI+boundaries+%F0%9F%A7%AC" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00FFD1&center=true&vCenter=true&width=700&height=60&lines=Passionate+AI+Engineer+with+1%2B+years+of+experience;Specialized+in+Generative+AI,+LLMOps,+and+LangChain;Building+next-gen+intelligent+systems+and+voice+assistants;Always+learning+and+pushing+AI+boundaries+%F0%9F%A7%AC" />
 </p>
 
 ---
@@ -23,11 +23,11 @@
 ## ⚒️ Tech Stack I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,flask,docker,git,vscode,linux,github,gcp,vercel" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,sql,pytorch,scikitlearn,pandas,numpy,tensorflow,aws,git,vscode" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=FF6F61&center=true&vCenter=true&width=700&height=50&lines=Python+%E2%9C%85+%7C+TensorFlow+%E2%9C%85+%7C+PyTorch+%E2%9C%85+%7C+FastAPI+%E2%9C%85+%7C+Docker+%E2%9C%85+%7C+GitHub+%E2%9C%85+%7C+GCP+%E2%9C%85+%7C+VSCode" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=FF6F61&center=true&vCenter=true&width=700&height=50&lines=Python+%E2%9C%85+%7C+C+++%E2%9C%85+%7C+SQL+%E2%9C%85+%7C+PyTorch+%E2%9C%85+%7C+Scikit-Learn+%E2%9C%85+%7C+Pandas+%E2%9C%85+%7C+NumPy+%E2%9C%85+%7C+TensorFlow+%E2%9C%85+%7C+AWS" />
 </p>
 
 ---
@@ -49,35 +49,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramkishan576&theme=gruvbox&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🚀 Currently Working On
-
-- 🤖 AI calling assistant with voice cloning  
-- 🧠 Local LLM-based RAG pipeline  
-- 💬 Multimodal prompt evaluation tools  
-- 🛠️ LLMOps and Model Monitoring  
-
----
-
 ## 📫 Contact Me
 
 <p align="center">
   <a href="mailto:ramkishannhr222@gmail.com">📩 Email</a> • 
   <a href="https://www.linkedin.com/in/ramkishanrohila">🔗 LinkedIn</a> • 
   <a href="https://instagram.com/ram_rohila">📸 Instagram</a>
-</p>
-
----
-
-## 🎉 Fun Footer Animation
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
 </p>
