@@ -29,8 +29,11 @@
 
 ## 🧠 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00FFD1&center=true&vCenter=true&width=700&height=60&lines=Passionate+AI+Engineer+with+1%2B+years+of+experience;Specialized+in+Generative+AI,+LLMOps,+and+LangChain;Building+next-gen+intelligent+systems+and+voice+assistants;Always+learning+and+pushing+AI+boundaries+%F0%9F%A7%AC" />
+<p align="center" style="font-size:16px; max-width:700px; margin:auto; line-height:1.5;">
+  I am a passionate AI Engineer specializing in Generative AI, LLMOps, and LangChain.<br>
+  I focus on building intelligent systems and voice assistants that understand, think, and learn.<br>
+  Always exploring new AI technologies and pushing the boundaries of innovation.<br>
+  Dedicated to delivering impactful next-generation AI solutions.
 </p>
 
 ---
@@ -50,7 +53,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramkishan576&theme=react-dark&hide_border=true&area=true" />
 </p>
 
-
 ---
 
 ## <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF94&center=true&vCenter=true&width=400&height=40&lines=Contact+Me" /></p>
@@ -59,4 +61,12 @@
   <a href="mailto:ramkishannhr222@gmail.com">📩 Email</a> • 
   <a href="https://www.linkedin.com/in/ramkishanrohila">🔗 LinkedIn</a> • 
   <a href="https://instagram.com/ram_rohila">📸 Instagram</a>
+</p>
+
+---
+
+## 🎉 Fun Footer Animation
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
 </p>
