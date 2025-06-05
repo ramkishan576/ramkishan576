@@ -35,7 +35,7 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="AI Animation" width="600" />
+<!--   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="AI Animation" width="600" /> -->
 </p>
 
 <!-- About Me Text -->
