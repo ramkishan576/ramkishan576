@@ -10,24 +10,27 @@
   <a href="https://instagram.com/ram_rohila"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
+<!-- ⚒️ Skill Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
 ---
 
 ## 🧠 About Me
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00FFD1&center=true&vCenter=true&width=700&height=60&lines=Passionate+AI+Engineer+with+1%2B+years+of+experience;Specialized+in+Generative+AI,+LLMOps,+and+LangChain;Building+next-gen+intelligent+systems+and+voice+assistants;Always+learning+and+pushing+AI+boundaries+%F0%9F%A7%AC" />
-</p>
-
----
-
-## ⚒️ Tech Stack I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,pytorch,scikitlearn,pandas,numpy,tensorflow,aws,git,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=FF6F61&center=true&vCenter=true&width=700&height=50&lines=Python+%E2%9C%85+%7C+C+++%E2%9C%85+%7C+SQL+%E2%9C%85+%7C+PyTorch+%E2%9C%85+%7C+Scikit-Learn+%E2%9C%85+%7C+Pandas+%E2%9C%85+%7C+NumPy+%E2%9C%85+%7C+TensorFlow+%E2%9C%85+%7C+AWS" />
 </p>
 
 ---
