@@ -51,8 +51,4 @@ I focus on applying advanced AI techniques to solve real-world problems in autom
 
 ---
 
-## Footer
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
-</p>
