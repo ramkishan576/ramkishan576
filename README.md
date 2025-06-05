@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">👋 Generative AI Engineer with a strong focus on developing and deploying large-scale AI solutions using cutting-edge
+<p align="left">Generative AI Engineer with a strong focus on developing and deploying large-scale AI solutions using cutting-edge
 technologies such as Gemini, LangChain, LangGraph, and RAG. Experienced in designing scalable NLP,
 recommendation, and generative systems, with a proven ability to drive business growth through AI-driven
 automation. Seeking opportunities in the USA or Germany, with openness to both relocation and remote roles.
