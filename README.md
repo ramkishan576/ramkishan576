@@ -12,10 +12,8 @@
 
 ## 🧠 About Me
 
-🎯 I'm an AI Engineer focused on **Generative AI**, **Prompt Engineering**, **LangChain**, **LangGraph**, and **LLMOps**  
-🚀 Currently building **Voice AI, RAG systems, and intelligent assistants**  
-🧑‍💻 Skilled in **LLM fine-tuning**, **Open Source LLMs**, and **Real-Time AI**  
-🌍 Open to remote or onsite opportunities in **Germany**, **US**, and **Global**  
+Generative AI Engineer with expertise in building scalable AI solutions using **Gemini**, **LangChain**, **LangGraph**, and **Retrieval-Augmented Generation (RAG)**.  
+Skilled in **NLP**, **recommendation systems**, and **generative models**, driving automation and business growth through innovative AI technologies.  
 
 ---
 
