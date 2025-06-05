@@ -29,12 +29,17 @@
 
 ## 🧠 About Me
 
-<p align="center" style="font-size:16px; max-width:700px; margin:auto; line-height:1.5;">
+<p align="center">
+  <img src="https://your-animated-background-url.gif" alt="Background Animation" width="700" style="opacity:0.3; position:absolute; z-index:-1;" />
+</p>
+
+<p align="center" style="position: relative; z-index: 10; font-size:16px; max-width:700px; margin:auto; line-height:1.5;">
   I am a passionate AI Engineer specializing in Generative AI, LLMOps, and LangChain.<br>
   I focus on building intelligent systems and voice assistants that understand, think, and learn.<br>
   Always exploring new AI technologies and pushing the boundaries of innovation.<br>
   Dedicated to delivering impactful next-generation AI solutions.
 </p>
+
 
 ---
 
