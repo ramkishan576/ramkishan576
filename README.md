@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6F61&center=true&vCenter=true&width=400&height=40&lines=GitHub+Stats" /></p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramkishan576&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -44,15 +44,15 @@
 
 ---
 
-## 🌐 Contribution Graph
+## <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=42D9FF&center=true&vCenter=true&width=400&height=40&lines=Contribution+Graph" /></p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramkishan576&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-profile-activity-graph.vercel.app/graph?username=ramkishan576&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF94&center=true&vCenter=true&width=400&height=40&lines=Contact+Me" /></p>
 
 <p align="center">
   <a href="mailto:ramkishannhr222@gmail.com">📩 Email</a> • 
