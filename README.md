@@ -14,10 +14,9 @@
 
 ## 🧠 About Me
 
-🎯 I'm an AI Engineer focused on **Generative AI**, **Prompt Engineering**, **LangChain**, **LangGraph**, and **LLMOps**  
-🚀 Currently building **Voice AI, RAG systems, and intelligent assistants**  
-🧑‍💻 Skilled in **LLM fine-tuning**, **Open Source LLMs**, and **Real-Time AI**  
-🌍 Open to remote or onsite opportunities in **Germany**, **US**, and **Global**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00FFD1&center=true&vCenter=true&width=700&height=60&lines=Passionate+AI+Engineer+with+8+years+of+experience;Specialized+in+Generative+AI,+LLMOps,+and+LangChain;Building+next-gen+intelligent+systems+and+voice+assistants;Always+learning+and+pushing+AI+boundaries+%F0%9F%A7%AC" />
+</p>
 
 ---
 
@@ -25,6 +24,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,flask,docker,git,vscode,linux,github,gcp,vercel" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=FF6F61&center=true&vCenter=true&width=700&height=50&lines=Python+%E2%9C%85+%7C+TensorFlow+%E2%9C%85+%7C+PyTorch+%E2%9C%85+%7C+FastAPI+%E2%9C%85+%7C+Docker+%E2%9C%85+%7C+GitHub+%E2%9C%85+%7C+GCP+%E2%9C%85+%7C+VSCode" />
 </p>
 
 ---
