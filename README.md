@@ -1,84 +1,72 @@
-<!-- 🌀 Typing Animation Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=Hey+%F0%9F%91%8B+I'm+Ramkishan+Rohila!;AI+Engineer+%7C+Prompt+Engineer+%7C+LLMOps+%7C+LangChain+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Building+AI+that+Talks+%F0%9F%94%AC+Thinks+%F0%9F%A7%AC+and+Learns+%F0%9F%A7%9E" />
+<!-- Header -->
+<div align="center">
+  <h1>👋 Welcome to My GitHub!</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Generative+AI+Engineer;LangChain+%7C+LangGraph+%7C+RAG+Expert;Always+Building+Future+with+AI" alt="Typing SVG" />
+</div>
+
+<!-- Social Badges -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/ramkishanrohila" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="mailto:ramkishannhr222@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+</div>
+
+---
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+
+### 👨‍💻 About Me
+
+- 🔬 **Generative AI Engineer** working on cutting-edge tools: `Gemini`, `LangChain`, `LangGraph`, and `RAG`.
+- ⚙️ Building smart, scalable NLP and recommendation systems.
+- 🌎 Open to remote/onsite roles in **USA** or **Germany**.
+- 🔗 Checkout my [LinkedIn](https://linkedin.com/in/ramkishanrohila)
+
+---
+
+### 🚀 Languages & Tools
+
+#### 💻 I Code In:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
 </p>
 
-<!-- 💫 Social Badges -->
-<p align="center">
-  <a href="mailto:ramkishannhr222@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ramkishanrohila"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/ram_rohila"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
-<!-- ⚒️ Skill Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+#### 🛠️ Tools I Use:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 </p>
 
 ---
 
-## 🧠 About Me
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
-<p align="center">
-  <img src="https://your-animated-background-url.gif" alt="Background Animation" width="700" style="opacity:0.3; position:absolute; z-index:-1;" />
-</p>
+### 📊 GitHub Stats
 
-<!-- Animated Header -->
-<p align="center">
-<!--   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="AI Animation" width="600" /> -->
-</p>
-
-<!-- About Me Text -->
-<p align="center">
-  I am a passionate AI Engineer specializing in Generative AI, LLMOps, and LangChain.<br>
-  I focus on building intelligent systems and voice assistants that understand, think, and learn.<br>
-  Always exploring new AI technologies and pushing the boundaries of innovation.<br>
-  Dedicated to delivering impactful next-generation AI solutions.
-</p>
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramkishan576&show_icons=true&theme=gruvbox&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramkishan576&layout=compact&theme=gruvbox&hide_border=false" height="170" />
+</div>
 
 ---
 
-## <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6F61&center=true&vCenter=true&width=400&height=40&lines=GitHub+Stats" /></p>
+### 📈 Contribution Graph
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramkishan576&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramkishan576&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=42D9FF&center=true&vCenter=true&width=400&height=40&lines=Contribution+Graph" /></p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramkishan576&theme=react-dark&hide_border=true&area=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramkishan576&theme=gruvbox&area=true" height="280" />
+</div>
 
 ---
 
-## <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF94&center=true&vCenter=true&width=400&height=40&lines=Contact+Me" /></p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
-<p align="center">
-  <a href="mailto:ramkishannhr222@gmail.com">📩 Email</a> • 
-  <a href="https://www.linkedin.com/in/ramkishanrohila">🔗 LinkedIn</a> • 
-  <a href="https://instagram.com/ram_rohila">📸 Instagram</a>
-</p>
-
----
-
-## 🎉 Fun Footer Animation
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
-</p>
